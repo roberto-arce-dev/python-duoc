@@ -3,6 +3,7 @@
 # Muy bajo" si el ingresado es menor.
 # "Muy alto" si el ingresado es mayor.
 # "¡Correcto!" si acierta (y termina el ciclo)
+# el seba es sapo 
 
 from random import randint
 num1 = int(input("Ingrese el numero 1: "))
